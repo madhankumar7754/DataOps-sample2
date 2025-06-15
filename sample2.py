@@ -15,3 +15,4 @@ print('hello world')
 
 
 print('sample2.py is executed')
+print("executed")
