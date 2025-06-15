@@ -6,4 +6,7 @@ for i in range(10):
 
 print('This is a sample file')
 def sample_function():
-    print('This is a sample function')  
+    print('This is a sample function') 
+
+sample_function()
+print('This is the end of the file') 
